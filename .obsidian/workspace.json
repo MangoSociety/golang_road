@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ef3ee713baf5b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#common",
+                "query": "tag:#готово",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5026054382324,
-    "collapsed": true
+    "width": 332.5026054382324
   },
   "right": {
     "id": "fb2fd84afcb6464c",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md",
+                "file": "android/interview_questions/202428Friday1128286286286286.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md",
+                "file": "android/interview_questions/202428Friday1128286286286286.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/interview_questions/202418Friday14181843184318431843.md"
+                "file": "android/interview_questions/202428Friday1128286286286286.md"
               }
             }
           }
@@ -175,10 +162,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6ef3ee713baf5b3f",
+  "active": "a2319b18f6ed235d",
   "lastOpenFiles": [
-    "android/interview_questions/202402Friday14020254254254254.md",
+    "Ну шо у нас, дохуя хотелок и нихуя действий?.md",
+    "План подготовки к собеседованию.md",
     "android/interview_questions/202418Friday14181843184318431843.md",
+    "android/interview_questions/202402Friday14020254254254254.md",
     "android/interview_questions/202401Friday14010122122122122.md",
     "android/interview_questions/202459Friday13595951595159515951.md",
     "android/interview_questions/202459Friday1359595595595595.md",
@@ -201,8 +190,6 @@
     "android/interview_questions/202437Friday0637373373373373.md",
     "android/interview_questions/202440Friday06404035403540354035.md",
     "android/interview_questions/202434Friday06343414341434143414.md",
-    "android/interview_questions/202433Friday0633336336336336.md",
-    "android/interview_questions/202444Friday05444425442544254425.md",
     "mentor",
     "plans/урезанный курс по прилке",
     "plans",
