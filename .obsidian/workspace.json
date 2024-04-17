@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/interview_qustions/array_slice_in_memory.md",
+                "file": "quests_base/202400Thursday1700009090909.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/interview_qustions/array_slice_in_memory.md",
+                "file": "quests_base/202400Thursday1700009090909.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/interview_qustions/array_slice_in_memory.md",
+                "file": "quests_base/202400Thursday1700009090909.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang/interview_qustions/array_slice_in_memory.md"
+                "file": "quests_base/202400Thursday1700009090909.md"
               }
             }
           }
@@ -162,35 +162,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a2319b18f6ed235d",
+  "active": "02a1ef7e1f2d5464",
   "lastOpenFiles": [
-    "golang/interview_qustions/concurrency_slice.md",
-    "golang/interview_qustions/difference_between_slice_array.md",
-    "golang/interview_qustions/max_size_slice.md",
-    "golang/interview_qustions/slice_for_slice.md",
-    "golang/interview_qustions/slice_warning.md",
-    "golang/interview_qustions/what_is_array.md",
-    "golang/interview_qustions/what_is_slice.md",
-    "golang/interview_qustions/work_with_slice_bad_good.md",
-    "questions/202400Thursday1700009090909.md",
-    "questions/202403Monday2103033333333.md",
-    "golang/interview_qustions/202402Monday21020252252252252.md",
-    "questions/202403Monday19030319319319319.md",
-    "questions/202403Monday21030338338338338.md",
-    "golang/interview_qustions/202403Monday19030341341341341.md",
-    "questions/202404Monday2104044444444.md",
-    "questions/202404Monday21040452452452452.md",
-    "questions/202405Monday21050521521521521.md",
-    "questions/202405Monday21050556556556556.md",
-    "questions/202406Monday21060639639639639.md",
-    "questions/202406Sunday03060647647647647.md",
-    "questions/202407Monday2107075757575.md",
-    "questions/202407Sunday03070720720720720.md",
-    "questions/202408Sunday03080823823823823.md",
-    "questions/202408Sunday03080844844844844.md",
-    "questions/202417Sunday02171716171617161716.md",
-    "golang/interview_qustions/202414Thursday16141412141214121412.md",
-    "questions",
+    "quests_base/202403Monday2103033333333.md",
+    "quests_base/202403Monday19030319319319319.md",
+    "quests_base/202404Monday2104044444444.md",
+    "quests_base/202405Monday21050521521521521.md",
+    "quests_base/202406Monday21060639639639639.md",
+    "quests_base/202407Monday2107075757575.md",
+    "quests_base/202408Sunday03080823823823823.md",
+    "quests_base/202421Sunday02212140214021402140.md",
+    "quests_base/202428Sunday0228285285285285.md",
+    "quests_base/202433Sunday02333349334933493349.md",
+    "quests_base/202435Thursday16353532353235323532.md",
+    "quests_base/202438Sunday02383832383238323832.md",
+    "quests_base/202441Sunday0241415415415415.md",
+    "quests_base/202444Sunday02444449444944494449.md",
+    "quests_base/202449Monday18494957495749574957.md",
+    "quests_base/202449Thursday17494933493349334933.md",
+    "quests_base/202450Monday18505053505350535053.md",
+    "quests_base/202451Monday18515138513851385138.md",
+    "quests_base/202459Thursday16595928592859285928.md",
+    "quests_base/202447Monday18474731473147314731.md",
+    "quests_base/202444Sunday02444421442144214421.md",
+    "quests_base/202448Thursday17484821482148214821.md",
+    "quests_base/202441Sunday02414159415941594159.md",
+    "quests_base/202450Thursday16505027502750275027.md",
+    "quests_base/202455Thursday1655554554554554.md",
+    "quests_base/202453Thursday16535316531653165316.md",
+    "quests_base",
     "mentor",
     "plans/урезанный курс по прилке",
     "plans",
