@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/interview_questions/202428Friday1128286286286286.md",
+                "file": "golang/interview_qustions/array_slice_in_memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#готово",
+                "query": "что такое мапа",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5026054382324
+    "width": 467.5
   },
   "right": {
     "id": "fb2fd84afcb6464c",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/interview_questions/202428Friday1128286286286286.md",
+                "file": "golang/interview_qustions/array_slice_in_memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/interview_questions/202428Friday1128286286286286.md",
+                "file": "golang/interview_qustions/array_slice_in_memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/interview_questions/202428Friday1128286286286286.md"
+                "file": "golang/interview_qustions/array_slice_in_memory.md"
               }
             }
           }
@@ -164,32 +164,33 @@
   },
   "active": "a2319b18f6ed235d",
   "lastOpenFiles": [
-    "Ну шо у нас, дохуя хотелок и нихуя действий?.md",
-    "План подготовки к собеседованию.md",
-    "android/interview_questions/202418Friday14181843184318431843.md",
-    "android/interview_questions/202402Friday14020254254254254.md",
-    "android/interview_questions/202401Friday14010122122122122.md",
-    "android/interview_questions/202459Friday13595951595159515951.md",
-    "android/interview_questions/202459Friday1359595595595595.md",
-    "android/interview_questions/202453Friday13535339533953395339.md",
-    "android/interview_questions/202445Friday1345455455455455.md",
-    "android/interview_questions/202439Friday1339393393393393.md",
-    "android/interview_questions/202432Friday1332320320320320.md",
-    "android/interview_questions/202428Friday1128286286286286.md",
-    "android/interview_questions/202418Friday1118184184184184.md",
-    "android/interview_questions/202406Friday11060658658658658.md",
-    "android/interview_questions/202401Friday11010141141141141.md",
-    "android/interview_questions/202458Friday10585817581758175817.md",
-    "android/interview_questions/202449Friday1049494494494494.md",
-    "android/interview_questions/202427Friday10272719271927192719.md",
-    "android/interview_questions/202456Friday06565631563156315631.md",
-    "android/interview_questions/202454Friday06545422542254225422.md",
-    "android/interview_questions/202452Friday06525230523052305230.md",
-    "android/interview_questions/202446Friday06464619461946194619.md",
-    "android/interview_questions/202443Friday06434331433143314331.md",
-    "android/interview_questions/202437Friday0637373373373373.md",
-    "android/interview_questions/202440Friday06404035403540354035.md",
-    "android/interview_questions/202434Friday06343414341434143414.md",
+    "golang/interview_qustions/concurrency_slice.md",
+    "golang/interview_qustions/difference_between_slice_array.md",
+    "golang/interview_qustions/max_size_slice.md",
+    "golang/interview_qustions/slice_for_slice.md",
+    "golang/interview_qustions/slice_warning.md",
+    "golang/interview_qustions/what_is_array.md",
+    "golang/interview_qustions/what_is_slice.md",
+    "golang/interview_qustions/work_with_slice_bad_good.md",
+    "questions/202400Thursday1700009090909.md",
+    "questions/202403Monday2103033333333.md",
+    "golang/interview_qustions/202402Monday21020252252252252.md",
+    "questions/202403Monday19030319319319319.md",
+    "questions/202403Monday21030338338338338.md",
+    "golang/interview_qustions/202403Monday19030341341341341.md",
+    "questions/202404Monday2104044444444.md",
+    "questions/202404Monday21040452452452452.md",
+    "questions/202405Monday21050521521521521.md",
+    "questions/202405Monday21050556556556556.md",
+    "questions/202406Monday21060639639639639.md",
+    "questions/202406Sunday03060647647647647.md",
+    "questions/202407Monday2107075757575.md",
+    "questions/202407Sunday03070720720720720.md",
+    "questions/202408Sunday03080823823823823.md",
+    "questions/202408Sunday03080844844844844.md",
+    "questions/202417Sunday02171716171617161716.md",
+    "golang/interview_qustions/202414Thursday16141412141214121412.md",
+    "questions",
     "mentor",
     "plans/урезанный курс по прилке",
     "plans",
@@ -201,7 +202,6 @@
     "Untitled.canvas",
     "golang/interview_qustions",
     "chotot",
-    "templates",
     "golang/tour-ru/static/img/gopher.png",
     "golang/tour-ru/content/img/tree.png",
     "golang/tour-ru/content/img/newton.png"
